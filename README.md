@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mehmet and I'm a Student of Software Engineering Department at Kocaeli University. <br><br>I'm interested about iOS Development</h2>
+<h2 align="left">Hi 👋! My name is Mehmet and I'm a Student of Software Engineering Department at Kocaeli University. <br><br>I'm interested about Mobile and Backend Development</h2>
 
 ###
 
