@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mehmet and I'm a Software Engineering graduate from Kocaeli University. <br><br>I'm interested about Fullstack Development</h2>
+<h2 align="left">Hi 👋! My name is Mehmet and I'm a Software Engineering graduate from Kocaeli University. <br><br>I'm interested about Backend Development</h2>
 
 ###
 
